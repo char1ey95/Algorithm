@@ -33,5 +33,5 @@ O(n)으로 알고리즘을 개선한다면,
 
 > 참고자료
 >
-> 동빈나 유투브
+> 동빈나 유튜브
 > https://www.youtube.com/watch?v=qQ5iLNjpxSk&list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz
