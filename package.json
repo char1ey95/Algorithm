@@ -1,0 +1,15 @@
+{
+	"name": "algorithm",
+	"version": "1.0.0",
+	"description": "알고리즘 이란 문제를 해결하는 절차이다.",
+	"main": "index.js",
+	"scripts": {
+		"test": "nodemon"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"nodemon": "^3.0.1"
+	}
+}
